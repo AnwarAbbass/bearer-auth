@@ -18,6 +18,6 @@ module.exports = async (req, res, next) => {
     // req.token = validUser.token;
      next();
   } catch (e) {
-    next('Invalid token');;
+    res.status(403).send('Invalid Login');
   }
 }
