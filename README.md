@@ -8,8 +8,6 @@ User will be using that Token to re-authenticate his login using Bearer-authenti
 
 <hr>
 
-## Author
-Furat Malkawi
 
 <hr>
 
