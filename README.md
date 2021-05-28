@@ -13,7 +13,8 @@ User will be using that Token to re-authenticate his login using Bearer-authenti
 
 ## Links
 
-* [Deployed App]()
+* [Deployed App](https://bearer-auth-anwar.herokuapp.com/)
+// will give "error": "Resource Not Found" becouse i didnt create home route
 * [test](https://github.com/AnwarAbbass/bearer-auth/runs/2669444684?check_suite_focus=true)
 
 <hr>
